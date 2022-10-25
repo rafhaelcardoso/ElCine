@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElCine.Api", "ElCine.Api\ElCine.Api.csproj", "{A88BAE04-E499-4A86-A54C-B5FE0704FFDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88BAE04-E499-4A86-A54C-B5FE0704FFDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88BAE04-E499-4A86-A54C-B5FE0704FFDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88BAE04-E499-4A86-A54C-B5FE0704FFDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88BAE04-E499-4A86-A54C-B5FE0704FFDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEB7A30-8502-46EF-93B2-E66C91D666E4}
+	EndGlobalSection
+EndGlobal
